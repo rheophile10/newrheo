@@ -1,0 +1,5 @@
+{
+    "tableName": "dodont",
+    "partitionKeyName": "action",
+    "partitionKeyType": "S"
+}

@@ -1,0 +1,6 @@
+type Todo @model {
+  id: ID!
+  donot: Boolean!
+  action: String!
+  active: Boolean!
+}
